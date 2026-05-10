@@ -6,7 +6,8 @@ icon: lucide/pencil
 Contributing helps keep this website up to date. It's not too hard, and it's a huge benefit to the team, so *please* do it.
 ## Adding/Editing Pages
 
-Basically, pages are made with [Markdown](markdown-in-5-minutes "Markdown in 5 minutes"), and look at the [Zensical Documentation](https://zensical.org/docs/get-started/) for any extra nonstandard stuff you can do. You can do a ton of stuff with it.
+Basically, pages are made with [Markdown](markdown-in-5-minutes "Markdown in 5 minutes"), and look at the [Zensical Documentation](https://zensical.org/docs/get-started/) for any extra nonstandard stuff you can do. You can do a ton of stuff with it.  
+Whenever you push a change, it should in theory update the website. It can take 10 or 20 minutes though.
 
 ### Installed Plugins (Extra JavaScript and CSS, Markdown Extensions)
 
@@ -25,6 +26,6 @@ We have several installed Plugins that you can use in Zensical.
  - [Markdown in HTML](https://zensical.org/docs/setup/extensions/python-markdown/#markdown-in-html)
  - [SuperFences](https://zensical.org/docs/setup/extensions/python-markdown-extensions/#superfences)
 
-## Editing the Site (Theme, Navigation, Plugins, ETC.)
+## Editing the Site config (Theme, Navigation, Plugins, ETC.)
 
 Good luck, I guess, config stuff is in zensical.toml
