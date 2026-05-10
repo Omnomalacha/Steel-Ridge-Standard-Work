@@ -2,7 +2,7 @@
 icon: lucide/book-open
 ---
 
-# Steel Ridge Standard Work Docs
+# Steel Ridge Standard Work
 
 ## Subteams
 
