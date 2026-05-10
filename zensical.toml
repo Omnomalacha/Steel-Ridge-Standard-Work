@@ -5,9 +5,9 @@ extra_javascript = [
     "javascripts/tablesort.js"
 ]
 
-site_name = "Steel Ridge Standard Work Docs"
+site_name = "Steel Ridge Standard Work"
 
-site_description = "Steel Ridge's Standard Work Documentation"
+site_description = "Steel Ridge's Standard Work"
 
 site_author = "Steel Ridge"
 
