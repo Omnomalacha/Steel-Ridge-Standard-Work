@@ -21,3 +21,7 @@ This is a list of parts we use and notes about them.
 | Wheels        | 4" Brass Flywheel           | SDS    | Insert with FRCDesignlib |                                                |
 | Wheels        | 4" Solid Urethane Wheel     | TTB    | Insert with FRCDesignlib | 1/2" Hex bore                                  |
 | Tubing        | MAXTube                     | REV    | Tube Converter FS        | "Legacy" and "Light" style, 1" x 1" and 2"x 2" |
+
+??? info "Bolts"
+  
+  #10-32 Screws are the fasteners that we use the most.
