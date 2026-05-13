@@ -22,8 +22,18 @@ This is a list of the prefered parts used by Steel Ridge and notes about them.
 | Wheels        | 4" Solid Urethane Wheel     | TTB    | Insert with FRCDesignlib | 1/2" Hex bore                                  |
 | Tubing        | MAXTube                     | REV    | Tube Converter FS        | "Legacy" and "Light" style, 1" x 1" and 2"x 2" |
 
+## Fasteners
+
 ??? info "Bolts"
     
-    #10-32 Screws are the fasteners that we use the most.
+     - #10-32 Screws
+
+     - #1/4-20 Screws
     
-    Model them with FRCDesign Inserter.
+    Bolts should be modeled by inserting the MCM Bolts with the FRCDesign Inserter.
+
+??? info "Nuts"
+
+     - 10-32 Nuts
+
+     - 1/4-20 Nuts
